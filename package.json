@@ -1,0 +1,19 @@
+{
+  "name": "courseregistration",
+  "version": "1.0.0",
+  "description": "Student Course Registration ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "async": "^2.6.0",
+    "body-parser": "*",
+    "express": "*",
+    "fs": "0.0.1-security",
+    "mysql": "~2.15.0",
+    "request": "^2.83.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
